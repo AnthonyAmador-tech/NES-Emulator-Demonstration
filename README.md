@@ -12,6 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/fcec656a-0218-47a8-ad7b-1b2f4beb64fa)
 
+<h3>Current State</h3>
 <h5>Running at 60 Frames per second</h5>
 
 ![image](https://github.com/user-attachments/assets/d803690a-9226-4f99-bd2a-db1db02b6f39)
